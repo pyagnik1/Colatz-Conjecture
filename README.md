@@ -1,1 +1,5 @@
-{\displaystyle f(n)={\begin{cases}{\frac {n}{2}}&{\text{if }}n\equiv 0{\pmod {2}}\\[4px]3n+1&{\text{if }}n\equiv 1{\pmod {2}}.\end{cases}}}
+
+The Conjecture
+'''----------
+
+https://repl.it/@ParthYagnik/Colatz-Conjecture#Capture.PNG
